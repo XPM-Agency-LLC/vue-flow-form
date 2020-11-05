@@ -16,7 +16,8 @@ export const QuestionType = Object.freeze({
   Phone: 'FlowFormPhoneType',
   SectionBreak: 'FlowFormSectionBreakType',
   Text: 'FlowFormTextType',
-  Url: 'FlowFormUrlType'
+  Url: 'FlowFormUrlType',
+  Tommy: 'Tommy'
 })
 
 export const DropdownOptionBlank = Object.freeze({

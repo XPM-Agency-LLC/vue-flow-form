@@ -32,6 +32,7 @@ export default class LanguageModel {
     this.ariaSubmitText = 'Press to submit'
     this.ariaMultipleChoice = 'Press :letter to select'
     this.ariaTypeAnswer = 'Type your answer here'
+    this.tommy = 'Tommy';
 
     Object.assign(this, options || {})
   }
